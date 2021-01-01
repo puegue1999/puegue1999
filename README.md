@@ -1,16 +1,15 @@
-### Hi there 👋
+````bash
+> help --info
+> A  lover of mythologies and a regular roleplayer who mainly programs in C and React Native and has recently
+ventured out into C++ and JS.
+> Working with ARM recently to learn more about computer architectures, this extra knowledge will
+make me a great programmer 😁.
+> Currently studying at UFS (Sergipe's Federal University) in computer engineering, I am in my sixth period.
+````
 
-<!--
-**puegue1999/puegue1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> linkedin: rafaeldrade1999
+> instagram: rafae1_pue
+> github: puegue1999
+````
