@@ -4,7 +4,7 @@
 recently ventured out into C++ and JS.
 > Working with ARM recently to learn more about computer architectures, this extra knowledge will
 make me a great programmer 😁.
-> Currently studying at UFS (Sergipe's Federal University) in computer engineering, I am in my
+> Currently studying at UFS "(Sergipe's Federal University)" in computer engineering, I am in my
 sixth period.
 ````
 
